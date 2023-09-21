@@ -19,3 +19,5 @@
 - ctrl + shift + G --> 그룹풀기
 
 # trim --> 사진 주위에 투명한 부분 정리하여 사진 크기에 맞추기 (image>trim)
+
+# 화면이동 -->space bar + 화면을 드래그
