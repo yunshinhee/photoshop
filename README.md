@@ -31,6 +31,6 @@
 이미 만들어진 레이어 마스크의 칼라를 반전시킬려면 ctrl+i
 
 # ctrl+레이어(썸네일) 클릭시 선택영역만 선택가능 
-  select-modify-contract: 원하는 픽셀크기 + -가능
-  select-transform selection: alt+마우스 + -조절가능
-원하는 그룹 오른쪽 duliplte group-new(새로운파일 만들기/원하는파일저장) -> image-trim(필요없는부분 삭제)
+  select->modify->contract: 원하는 픽셀크기 + -가능
+  select->transform selection: alt+마우스 + -조절가능
+원하는 그룹 오른쪽 duliplte group->new(새로운파일 만들기/원하는파일저장) -> image-trim(필요없는부분 삭제)
