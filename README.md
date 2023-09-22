@@ -30,4 +30,6 @@
 #alt + 레이어마스크를 클릭하면 반전으로 나오고,
 이미 만들어진 레이어 마스크의 칼라를 반전시킬려면 ctrl+i
 
-#ctrl+레이어(썸네일) 클릭시 도형만 선택가능 
+#ctrl+레이어(썸네일) 클릭시 선택영역만 선택가능 
+  select-modify-contract: 원하는 픽셀크기 + -가능
+  select-transform selection: alt+마우스 + -조절가능
