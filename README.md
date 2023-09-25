@@ -34,3 +34,9 @@
   select->modify->contract: 원하는 픽셀크기 + -가능
   select->transform selection: alt+마우스 + -조절가능
 원하는 그룹 오른쪽 duliplte group->new(새로운파일 만들기/원하는파일저장) -> image-trim(필요없는부분 삭제)
+
+# 그룹효과 
+레이어 오른쪽 마우스 = merge shaepe
+
+#폰트 추가(포토샵 새로안켜도됨)
+T->위에서 폴더모양->Character-> 세줄 막대그림->reset character
